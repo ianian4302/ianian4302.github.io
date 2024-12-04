@@ -1,2 +1,7 @@
 # ianian4302.github.io
-1234567
+https://ianian4302.github.io/
+
+```bash
+git config --global http.postBuffer 524288000
+hexo clean && hexo g && hexo d
+```
