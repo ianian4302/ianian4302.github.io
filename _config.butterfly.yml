@@ -52,7 +52,7 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: img/icon_01.png
+favicon: /blog/img/icon_01.png
 
 avatar:
   img: /img/icon_01.png
