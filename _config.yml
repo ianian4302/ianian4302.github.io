@@ -103,5 +103,6 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/ianian4302/ianian4302.github.io.git
-  branch: master
+  repo: https://github.com/ianian4302/blog
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: release
