@@ -36,7 +36,7 @@ $ npm install -g hexo-cli
 $ hexo version
 $ hexo -v
 ```
-![Alt描述](1.png)
+![Alt描述](/1.png)
 
 ## Hexo install
 
